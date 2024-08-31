@@ -1,0 +1,12 @@
+[
+    {
+        "model":"portfolioapi.Project",
+        "pk": 1,
+        "fields": {
+            "name": "Optimum Mens Health",
+            "description": "Optimum Men's Health is a website I built during a 2-week sprint as my final school project and for a local business owner. It features full CRUD functionality supported by a Django RESTful API that connects seamlessly with my React and TailwindCSS front end.",
+            "deployed": false,
+            "tags": [1, 2, 3, 4, 5, 6]
+        }
+    }
+]
