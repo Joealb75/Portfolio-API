@@ -1,0 +1,11 @@
+[
+    {
+        "model":"portfolioapi.GitHubStats",
+        "pk": 1,
+        "fields": {
+            "repos": 30,
+            "YTDcontributions": 435,
+            "updateDate": "2024-09-02"
+        }
+    }
+]

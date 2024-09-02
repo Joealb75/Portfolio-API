@@ -16,4 +16,4 @@ python3 manage.py migrate portfolioapi
 python3 manage.py loaddata tags.json
 python3 manage.py loaddata projects.json
 python3 manage.py loaddata images.json
-
+python3 manage.py loaddata gitHubStats.json
