@@ -11,8 +11,8 @@ fi
 python3 manage.py migrate
 python3 manage.py makemigrations portfolioapi
 python3 manage.py migrate portfolioapi
-#python3 manage.py loaddata users
-#python3 manage.py loaddata tokens
+python3 manage.py loaddata user
+python3 manage.py loaddata tokens
 python3 manage.py loaddata tags.json
 python3 manage.py loaddata projects.json
 python3 manage.py loaddata images.json
